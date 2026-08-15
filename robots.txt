@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-nwxbqb.biggamingwin.xyz/sitemap.xml
